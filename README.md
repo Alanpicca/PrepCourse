@@ -1,2 +1,1 @@
-# PrepCourse
-este es un repositorio de modulo2 de prephouse de henry 
+este es un preyecto es una prueba de como crear un repositorio y clonarlo a mi escritorio
